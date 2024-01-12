@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Stall.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 3
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 576
+  m_MipsStripped: 0
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 1
+  m_IsPreProcessed: 0
+  m_IgnoreMasterTextureLimit: 0
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 576
+  _typelessdata: 7d4896a3322c424f03882834b3ac9d50712991152900d24e9106e73c1c3000005169a3556d0cd2e872281e72fd7f700122b1730d14aa9501e41459fa013880ab5e8887314d80da188cf1eb0b000000004df035b42600c02808026b9e088c0000e1088e31d78cddf7e9ab501ddb9c7157e2888375a544b8356a88fdfdf34f3442710981e7abafcfe2a51c2895b0800000f1105f8dcef0eb88ede8a8bc7a7fb83b51698895b4bf9f2e8ff00b90b8c2315d710882677b6f64e1e872281f0008422612a3abab0f520520f4b7411e210b789c0289838d562cccbb667f83fa070ccdd003036f5afadf876e00111e883cd141c03d680818f35cf65e2e745973307a0cc0c284477c48c832f30f13ffa9a07589ff029131142900206f10566f060600084002c907f34804d6edf68f145e87411ff42e84bfc43424863cc3333803333003664d88906359f910eabf31bf2143ffb0bb5d109b61e56a89954b11175d765130c2f1f0e0c10b73d5dc4b0dafe8c0747272b188187304212c0000c00000408000806d5009ab72bb97b49d4d7cbdaa9a73ceee85dd863b1b9bfe3d00c13cfff13fff7300618df1108192002994982436b0af036988e3b7b344723a4bff4080d0c098616988839473244246839d023ecff338a344351b007c3336340900c03c0000204301cfe9d3e22c3400000000a4ca39203189836dbd458aea6674620e8a11780a14017789010f89920000000000000060f168887591fc3e8b52281c5c5c5a547f6149d6e3a4f502170c83eb03020070fc4d088251a58a1eebecccd8fd9f0000c0
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

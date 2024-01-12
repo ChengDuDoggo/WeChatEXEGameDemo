@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1200 &1
+AutoStreamingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  mSearchMode: 7
+  mCustomSearchFile: 
+  mTextureSearchString: 
+  mMeshSearchString: 
+  mTextures:
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Res/Sprite/Sprite Atlas.spriteatlasv2
+    localFileId: 100100200
+    rtMem: 0
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 1114112
+    width: 0
+    height: 0
+    abSize: 71534
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Res/Sprite/Sprite Atlas.spriteatlasv2
+    localFileId: 8711939763936270973
+    rtMem: 235296
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 1114112
+    width: 1024
+    height: 512
+    abSize: 71534
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Res/Sprite/Stall.png
+    localFileId: 2800000
+    rtMem: 285152
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 794
+    height: 802
+    abSize: 52797
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Res/Font/Font.png
+    localFileId: 2800000
+    rtMem: 18480
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 628
+    height: 64
+    abSize: 17780
+  mAudios:
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/hit_duck-01.ogg
+    localFileId: 8300000
+    rtMem: 2656
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/hit_duck-02.ogg
+    localFileId: 8300000
+    rtMem: 3104
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/hit_duck-03.ogg
+    localFileId: 8300000
+    rtMem: 2272
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/hit_duck.ogg
+    localFileId: 8300000
+    rtMem: 3072
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/show_scene.ogg
+    localFileId: 8300000
+    rtMem: 12768
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/ready_go.ogg
+    localFileId: 8300000
+    rtMem: 15040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/shot_gun.ogg
+    localFileId: 8300000
+    rtMem: 1696
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/Show_duck.ogg
+    localFileId: 8300000
+    rtMem: 8352
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/Show_duck_ready.ogg
+    localFileId: 8300000
+    rtMem: 3328
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/duck_goback.ogg
+    localFileId: 8300000
+    rtMem: 3552
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/unhit_duck.ogg
+    localFileId: 8300000
+    rtMem: 18368
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/BGM_03.wav
+    localFileId: 8300000
+    rtMem: 126432
+    warningFlag: 0
+    refs:
+    - 0
+  mMeshes: []
+  mAnimations:
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Animation/SuperMode/SuperMode.anim:SuperMode
+    localFileId: 7400000
+    rtMem: 0
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Animation/ReadyGo/ReadyGo.anim:ReadyGo
+    localFileId: 7400000
+    rtMem: 456
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Animation/Duck/Hit.anim:Hit
+    localFileId: 7400000
+    rtMem: 464
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Animation/Env/Enter.anim:Enter
+    localFileId: 7400000
+    rtMem: 1378
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Animation/Gun/Gun.anim:Gun
+    localFileId: 7400000
+    rtMem: 472
+    warningFlag: 0
+    refs:
+    - 0
+  mSharedSceneAssets: []
+  mScenes:
+  - onDemandDownload: 1
+    assetPath: Assets/Scenes/SampleScene.unity
+    localFileId: -1
+    rtMem: 0
+    warningFlag: 0
+    refs: []
+  mConfigCCD:
+    useCCD: 0
+    uosSecret: d95fd2b8cb1f48f7a0f334df058c4b0f
+    uosAppid: 15cbb261-d0f5-4573-a179-31f690a4b9d2
+    bucketUuid: 558d1f68-5c21-4c53-8e03-160da6ec91ce
+    bucketName: WXGame01
+    badgeName: 1_0
+    ttAppid: 
+    targetPlatfrom: 

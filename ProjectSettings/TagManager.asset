@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1278242005
+    locked: 0
+  - name: Duck1
+    uniqueID: 1270421727
+    locked: 0
+  - name: Tree
+    uniqueID: 3894543279
+    locked: 0
+  - name: Grass
+    uniqueID: 568849895
+    locked: 0
+  - name: Duck2
+    uniqueID: 2803040387
+    locked: 0
+  - name: Water1
+    uniqueID: 568810065
+    locked: 0
+  - name: Duck3
+    uniqueID: 3164974953
+    locked: 0
+  - name: Water2
+    uniqueID: 1192427897
+    locked: 0
+  - name: Stage
+    uniqueID: 3915550381
+    locked: 0
+  - name: Gun
+    uniqueID: 901037857
+    locked: 0
